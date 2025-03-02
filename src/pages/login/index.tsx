@@ -36,7 +36,7 @@ export const Login = () => {
                 <Title />
                 <S.SubtitleContainer>
                     <S.Subtitle>
-                        Bem Vindo<span>,</span>
+                        Bem Vindo<span>!</span>
                     </S.Subtitle>
                     <S.Description>Possui uma conta?</S.Description>
                 </S.SubtitleContainer>
